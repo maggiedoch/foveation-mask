@@ -5,6 +5,8 @@ It is accompanied by a spotlight of sorts: a radius around the cursor that cuts 
 
 If the code looks dumb and stupid and bad, it's because it is.
 
+When you see a T, click on it. If you don't see any T's, press the spacebar.
+
 My next steps will be:
   (1) Adding instructions for reporting targets and no-target trials,
   (2) Requiring participants to center cursor between trials,
