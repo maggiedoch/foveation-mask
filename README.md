@@ -6,7 +6,7 @@ It is accompanied by a spotlight of sorts: a radius around the cursor that cuts 
 If the code looks dumb and stupid and bad, it's because it is.
 
 My next steps will be:
-  – Requiring participants to center cursor between trials
-  – Set a min. time between trials (Spamming the spacebar kinda breaks everything)
-  – Possibly a slider for opacity?
-  – Maybe making the L's offset a bit to vary distractor similarity to target?
+  (1) Requiring participants to center cursor between trials,
+  (2) Set a min. time between trials (Spamming the spacebar kinda breaks everything),
+  (3) Possibly a slider for opacity?, and
+  (4) Maybe making the L's offset a bit to vary distractor similarity to target?
